@@ -12,8 +12,8 @@
   Bootstrap usa variables de Sass, por lo que debes definirlas 
   antes de importar Bootstrap para que se apliquen correctamente.
 */
-$warning: rgb(39, 216, 136);
-$primary: rgb(115, 51, 218);
+$warning: rgb(255, 239, 58);
+$primary: rgb(60, 254, 231);
 
 // Estandarizar estilos entre navegadores
 @import "/src/assets/css/normalize.css";
